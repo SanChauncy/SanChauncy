@@ -4,22 +4,15 @@
 <h1><img src="http://blog.mingyuebaby.xyz/wp-content/uploads/2023/02/mona-loading-dark.gif" width="50px"/>Hi, I'm Liky, a Developer 🚀 from Beijing.</h1>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SanChauncy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### 你好，世界 👋
+**Talking about Personal Stuffs:**
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👨🏽‍💻 I’m currently working on [BlogSite](https://blog.mingyuebaby.xyz);
+- 🌱 I’m currently learning website and server;
+- 👯 I’m looking to collaborate on Look at the following👇;
+- 🤔 I’m looking for the help of money making techniques💰 ;
+- 💬 Ask me about anything to [issues](https://github.com), I am happy to help;
+- ⚡️ Fun-Fact: my major is machine manufacture and automation;
+- 📫 How to reach me:[clear_love@qq.com](mailto:clear_love@qq.com) ;
 
 **My GitHub Stats**
 

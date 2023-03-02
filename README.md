@@ -8,7 +8,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [BlogSite](https://blog.mingyuebaby.xyz);
+- 👨🏽‍💻 I’m currently working on [BlogSite](http://blog.mingyuebaby.xyz);
 - 🌱 I’m currently learning website and server;
 - 👯 I’m looking to collaborate on Look at the following👇;
 - 🤔 I’m looking for the help of money making techniques💰 ;

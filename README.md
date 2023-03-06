@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning website and server;
 - 👯 I’m looking to collaborate on Look at the following👇;
 - 🤔 I’m looking for the help of money making techniques💰 ;
-- 💬 Ask me about anything to [issues](https://github.com), I am happy to help;
+- 💬 Ask me about anything to [issues](https://github.com/SanChauncy), I am happy to help;
 - ⚡️ Fun-Fact: my major is machine manufacture and automation;
 - 📫 How to reach me:[clear_love@qq.com](mailto:clear_love@qq.com) ;
 

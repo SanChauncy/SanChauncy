@@ -17,9 +17,9 @@
 - 📫 How to reach me:[clear_love@qq.com](mailto:clear_love@qq.com) ;
 
 **My GitHub Stats**
-
-
-<p style="display:flex">
-
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanChauncy&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-</p>
+
+
+
+
+
